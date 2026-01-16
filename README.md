@@ -15,7 +15,7 @@ The goal of this repository is to:
 
 I am following **Striver’s A2Z DSA Sheet** as the primary roadmap for problem selection and topic order.
 
-Link: https://takeuforward.org/strivers-a2z-dsa-course/
+Link: [https://takeuforward.org/strivers-a2z-dsa-course/](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
 
 ---
 
